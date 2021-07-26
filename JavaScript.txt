@@ -1,0 +1,19 @@
+//Add To "JavaScript"
+<script type="text/javascript"><!--
+    function onPreCreateAccount() {
+
+      return true;
+
+    }
+
+    function onPreLogin() {
+
+
+      if (window["onlogin"] != null) {
+        return onlogin();
+      } else {
+        return true;
+      }
+
+    }
+  --></script>            

